@@ -23,5 +23,4 @@
 | 1 | 1 | 10 | - |
 | 1 | 2 | 1 | - |
 
-![:)]
-(https://i.pinimg.com/originals/64/3a/b6/643ab6e327147216e4b4c52d065d9f78.png?nii=t)
+![:)] (https://i.pinimg.com/originals/64/3a/b6/643ab6e327147216e4b4c52d065d9f78.png?nii=t)
